@@ -10,7 +10,7 @@
 
 
 # Updated Yolov7 Function
-    >I updated this function code for showing the "EGEROBOT - isgsis" box.This function into the utils.plots
+   >I updated this function code for showing the "EGEROBOT - isgsis" box.This function into the utils.plots
     
     def plot_one_box(x, img, color=None, label=None, line_thickness=3):
     # Plots one bounding box on image img
