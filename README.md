@@ -4,7 +4,8 @@
 
 <details>
 <summary> Project Chart Diagram </summary>
-I used this Chart Diagram for development process
+   <p> I used this Chart Diagram for development process </p>
+<br />
 <img src="https://user-images.githubusercontent.com/59209205/204371290-11db1d23-6452-429e-a4cd-4704fb4eb624.png">
 </details>
 
@@ -39,7 +40,8 @@ I used this Chart Diagram for development process
         cv2.rectangle(img, c1, c2, color, -1, cv2.LINE_AA)  # filled
         cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA)
 
-#EGEROBOT - isgsis
+<p> EGEROBOT - isgsis </p>
+<br />
 <img src="https://user-images.githubusercontent.com/59209205/204371435-90349413-4b70-441b-af1e-e8ddf105b9fa.png">
 
 
