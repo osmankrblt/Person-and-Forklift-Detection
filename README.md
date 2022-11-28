@@ -1,6 +1,6 @@
 # Person and Forklift Detection
 
-> This project is my internship project
+> This project is my internship project made for <hr>EGEROBOT - isgsis</hr>
 
 <details>
 <summary> Project Chart Diagram </summary>
