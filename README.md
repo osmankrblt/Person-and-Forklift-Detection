@@ -2,6 +2,8 @@
 
 > This project is my internship project made for <b>EGEROBOT - isgsis</b>
 
+Project  video result  link is : https://www.youtube.com/watch?v=jaCtENkJPEo&ab_channel=OsmanKarabulut
+
 <details>
 <summary> Project Chart Diagram </summary>
    <br />
@@ -35,7 +37,7 @@
        # This code write the "EGEROBOT - isgsis"
 
        if label:
-           tf = max(tl - 1, 1)  # font thickness
+           
            t_size = cv2.getTextSize(label, 0, fontScale=tl / 3, thickness=tf)[0]
            c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
            cv2.rectangle(img, c1, c2, color, -1, cv2.LINE_AA)  # filled
