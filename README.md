@@ -2,11 +2,8 @@
 
 > This project is my internship project
 
- I used this Chart Diagram for development process
-         ![Person-Forklift Detection Chart drawio](https://user-images.githubusercontent.com/59209205/204371290-11db1d23-6452-429e-a4cd-4704fb4eb624.png)
-
- EGEROBOT - isgsis
-         ![egerobot_logo_01](https://user-images.githubusercontent.com/59209205/204371435-90349413-4b70-441b-af1e-e8ddf105b9fa.png)
+I used this Chart Diagram for development process
+![Person-Forklift Detection Chart drawio](https://user-images.githubusercontent.com/59209205/204371290-11db1d23-6452-429e-a4cd-4704fb4eb624.png)
 
 
 # Updated Yolov7 Function
@@ -35,4 +32,10 @@
         c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
         cv2.rectangle(img, c1, c2, color, -1, cv2.LINE_AA)  # filled
         cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA)
+
+EGEROBOT - isgsis
+![egerobot_logo_01](https://user-images.githubusercontent.com/59209205/204371435-90349413-4b70-441b-af1e-e8ddf105b9fa.png)
+
+
+
         
